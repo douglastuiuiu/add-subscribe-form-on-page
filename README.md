@@ -5,12 +5,12 @@ Install:
 - save 'dynamicNewsLetterForm.js' html file into your project
 - import 'dynamicNewsLetterForm.js' in your index html file
 
-Depends:
+Requirements:
 - Any version of Jquery
 
 PS.: import Jquery script file before 'dynamicNewsLetterForm.js'
 
-Test:
+Demo:
 run commands
  - npm install
  - http-server -a localhost -p 8000 -c-1
