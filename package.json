@@ -1,0 +1,19 @@
+{
+  "name": "frontend-test",
+  "version": "1.0.0",
+  "description": "build dynamic form e send to API",
+  "main": "dynamicNewsLetterForm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglastuiuiu/frontend-test.git"
+  },
+  "author": "douglastuiuiu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglastuiuiu/frontend-test/issues"
+  },
+  "homepage": "https://github.com/douglastuiuiu/frontend-test#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
